@@ -1,0 +1,18 @@
+/* style de base pour le site*/
+body {
+    display: flex;
+    justify-content: space-between;
+    text-align: justify;
+    padding: 10px;
+    margin: 0 10px;
+    height: 100%;
+    width: 100%;
+  }
+  /* style de base pour le site*/
+  select {
+    display: flex;
+    justify-content: space-between;
+    text-align: justify;
+    padding: 10px;
+    margin: 0 10px;
+  }
